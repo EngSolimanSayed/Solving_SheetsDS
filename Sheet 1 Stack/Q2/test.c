@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include"Stack.h"
+#include"Stack.h"//implementation in Q1
 int main()
 {
     Stack s;
